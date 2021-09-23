@@ -4,9 +4,17 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 08:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 09:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Rise Up / Andra Day' (Cover)]]></title>
+            <link>https://www.vlive.tv/post/0-25577451</link>
+            <guid>https://www.vlive.tv/post/0-25577451</guid>
+            <pubDate>Thu, 23 Sep 2021 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[19분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210923_145/16323837017963YjSO_PNG/upload_48653303097759788c3c41686-57cc-4d5d-948b-cc8061e96fe4.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[(G)I-DLE] 진짜 사랑해.. 야무지게 약속 지키는 예슈화를.. (Shuhua's V in the studio)]]></title>
             <link>https://www.vlive.tv/post/1-25487524</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25445152</guid>
             <pubDate>Thu, 23 Sep 2021 00:59:59 GMT</pubDate>
             <content:encoded><![CDATA[9.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210917_294/1631872641854YMU9d_JPEG/243f8ecb-16cb-11ec-b835-505dac8c3607_08.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - 민니의 VLOG : 방콕 활동 🙌]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24270449</guid>
             <pubDate>Thu, 23 Sep 2021 00:59:59 GMT</pubDate>
             <content:encoded><![CDATA[7.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[#HASHTALK] EP.17 전소연🦁, 윈디🍔, 연하🥀의 역사적인 만남🤭ㅣ(여자)아이들 ((G)I-DLE)]]></title>
-            <link>https://www.vlive.tv/post/0-24235760</link>
-            <guid>https://www.vlive.tv/post/0-24235760</guid>
-            <pubDate>Thu, 23 Sep 2021 00:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[7.22.]]></content:encoded>
         </item>
     </channel>
 </rss>
