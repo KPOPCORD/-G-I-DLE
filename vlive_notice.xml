@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>(G)I-DLE ─ Notice</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 23 Sep 2021 00:56:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET...]]></title>
+            <link>https://m.vlive.tv/post/0-17972224</link>
+            <guid>https://m.vlive.tv/post/0-17972224</guid>
+            <pubDate>Thu, 23 Sep 2021 00:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[Sep 18, 2020]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210711_182/1625950842261ghbAM_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[‪[공지] (여자)아이들 공식 팬클럽 NEVERLAND 2기 추가 모집 안내‬  ‪✔ 모집기간 2020. 9...]]></title>
+            <link>https://m.vlive.tv/post/1-17430074</link>
+            <guid>https://m.vlive.tv/post/1-17430074</guid>
+            <pubDate>Thu, 23 Sep 2021 00:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[Sep 7, 2020]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210711_25/1625959091952Rz7tM_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[[공지] (여자)아이들 공식 팬클럽 NEVERLAND 2기 모집 안내  ✔ 모집기간 2020. 8. 10. ...]]></title>
+            <link>https://m.vlive.tv/post/1-16462099</link>
+            <guid>https://m.vlive.tv/post/1-16462099</guid>
+            <pubDate>Thu, 23 Sep 2021 00:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[Aug 12, 2020]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210711_277/1625975166565kgYY5_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+    </channel>
+</rss>
