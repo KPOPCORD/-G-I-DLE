@@ -1,6 +1,6 @@
 [vlive]
 title = "(G)I-DLE ─ Star Board"
-url = "https://m.vlive.tv/channel/CE2621/board/5013?lang=ko"
+url = "https://www.vlive.tv/channel/CE2621/board/5013?lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[class^='post_area']"
@@ -11,7 +11,7 @@ onFail = "stale"
 
 [vlive_notice]
 title = "(G)I-DLE ─ Notice"
-url = "https://m.vlive.tv/channel/CE2621/board/1578"
+url = "https://www.vlive.tv/channel/CE2621/board/1578"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[class^='post_area']"
