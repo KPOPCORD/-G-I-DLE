@@ -4,9 +4,17 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 11:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 12:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[면💕]]></title>
+            <link>https://www.vlive.tv/post/0-25705859</link>
+            <guid>https://www.vlive.tv/post/0-25705859</guid>
+            <pubDate>Thu, 30 Sep 2021 12:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/264552/thumb?type=f640_362" length="0" type="image//live/264552/thumb"/>
+        </item>
         <item>
             <title><![CDATA[우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Rise Up / Andra Day' (Cover)]]></title>
             <link>https://www.vlive.tv/post/0-25577451</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25467596</guid>
             <pubDate>Thu, 23 Sep 2021 00:59:59 GMT</pubDate>
             <content:encoded><![CDATA[9.17.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210917_90/1631875865980FLA3c_JPEG/78ff37f9-17a4-11ec-b835-505dac8c3607_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🐺👋🏻🌻]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24337274</guid>
             <pubDate>Thu, 23 Sep 2021 00:59:59 GMT</pubDate>
             <content:encoded><![CDATA[7.26.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하이🦁]]></title>
-            <link>https://www.vlive.tv/post/0-24270449</link>
-            <guid>https://www.vlive.tv/post/0-24270449</guid>
-            <pubDate>Thu, 23 Sep 2021 00:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[7.23.]]></content:encoded>
         </item>
     </channel>
 </rss>
