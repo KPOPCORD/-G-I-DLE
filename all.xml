@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 11:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 12:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[며니💕💌 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-26199649</link>
+            <guid>https://www.vlive.tv/post/1-26199649</guid>
+            <pubDate>Wed, 27 Oct 2021 12:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/267162/thumb?type=f640_362" length="0" type="image//live/267162/thumb"/>
+        </item>
         <item>
             <title><![CDATA[HAPPY MINNIE’S DAY!💝 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-26125057</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25832308</guid>
             <pubDate>Thu, 07 Oct 2021 13:27:57 GMT</pubDate>
             <content:encoded><![CDATA[10.7.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211007_189/1633615879744PW684_JPEG/61f091bc-2777-11ec-8adb-a0369ff9545c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[면💕 ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24485112</guid>
             <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[8.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.) ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-24438943</link>
-            <guid>https://www.vlive.tv/post/0-24438943</guid>
-            <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[8.1.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
