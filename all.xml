@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 13:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 14:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://www.vlive.tv/post/1-26199649</link>
             <guid>https://www.vlive.tv/post/1-26199649</guid>
             <pubDate>Wed, 27 Oct 2021 12:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/267162/thumb?type=f640_362" length="0" type="image//live/267162/thumb"/>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211027_139/1635342732823e5hKa_JPEG/9b02dca1-372b-11ec-a979-48df37ae3dc4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HAPPY MINNIE’S DAY!💝 ((G)I-DLE ─ Star Board)]]></title>
