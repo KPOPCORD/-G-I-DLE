@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 10:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 11:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Happy Halloween ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-26250170</link>
+            <guid>https://www.vlive.tv/post/0-26250170</guid>
+            <pubDate>Sun, 31 Oct 2021 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[52분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211031_33/1635675822736tBc9P_JPEG/5157c718-3a34-11ec-a979-48df37ae3dc4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[며니💕💌 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-26199649</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26055419</guid>
             <pubDate>Wed, 20 Oct 2021 09:18:39 GMT</pubDate>
             <content:encoded><![CDATA[10.20.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211019_124/1634622282969QyWmk_JPEG/upload_50891234620784562c53dbbd7-1cdc-4dcb-87eb-6d19d84e8d86.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누들🍜💕 ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24513897</guid>
             <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[8.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[(G)I-DLE] 연자매 채소 먹방 멈춰🤚 고기 먹방 킵고잉🍖💕 (Soyeon&Miyeon eating meat) ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-24485112</link>
-            <guid>https://www.vlive.tv/post/0-24485112</guid>
-            <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[8.2.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
