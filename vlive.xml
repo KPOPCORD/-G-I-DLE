@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 05:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어서오슈]]></title>
+            <link>https://www.vlive.tv/post/1-26299178</link>
+            <guid>https://www.vlive.tv/post/1-26299178</guid>
+            <pubDate>Wed, 03 Nov 2021 06:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/267859/thumb?type=f640_362" length="0" type="image//live/267859/thumb"/>
+        </item>
         <item>
             <title><![CDATA[며니🤗]]></title>
             <link>https://www.vlive.tv/post/1-26290315</link>
             <guid>https://www.vlive.tv/post/1-26290315</guid>
             <pubDate>Tue, 02 Nov 2021 13:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211102_255/1635860010681AEGr9_JPEG/e9db77b9-3be0-11ec-b39d-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26199649</guid>
             <pubDate>Wed, 27 Oct 2021 12:30:19 GMT</pubDate>
             <content:encoded><![CDATA[10.27.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211103_256/1635904592729GbgVD_JPEG/9b02dca1-372b-11ec-a979-48df37ae3dc4_05.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HAPPY MINNIE’S DAY!💝]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24718217</guid>
             <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[8.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[(G)I-DLE] 기억해..⭐️ VLIVE에서 내 첫사랑을 찾은 날..🖌️ (Shuhua's Windy Burger eating time!)]]></title>
-            <link>https://www.vlive.tv/post/1-24560748</link>
-            <guid>https://www.vlive.tv/post/1-24560748</guid>
-            <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[8.6.]]></content:encoded>
         </item>
     </channel>
 </rss>
