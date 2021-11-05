@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 10:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 11:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젤리🫐🍓🍒🍊🍌🍍🥭4주년♡]]></title>
+            <link>https://www.vlive.tv/post/1-26330497</link>
+            <guid>https://www.vlive.tv/post/1-26330497</guid>
+            <pubDate>Fri, 05 Nov 2021 11:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/268181/thumb?type=f640_362" length="0" type="image//live/268181/thumb"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들 - 민니의 VLOG : 방콕 집콕 🏠]]></title>
             <link>https://www.vlive.tv/post/0-26290659</link>
             <guid>https://www.vlive.tv/post/0-26290659</guid>
             <pubDate>Fri, 05 Nov 2021 09:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211103_44/1635905690291eK6By_JPEG/upload_79985352260335018af0761c8-10f1-4b3f-bb10-0772deddeaf1.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://www.vlive.tv/post/0-26314845</link>
             <guid>https://www.vlive.tv/post/0-26314845</guid>
             <pubDate>Thu, 04 Nov 2021 18:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211105_235/1636044068079BdEFF_JPEG/8fcedd70-3d8b-11ec-ba2c-505dac8c385b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,8 +36,7 @@
             <link>https://www.vlive.tv/post/0-26314793</link>
             <guid>https://www.vlive.tv/post/0-26314793</guid>
             <pubDate>Thu, 04 Nov 2021 16:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211105_287/1636041183011GLMcV_JPEG/38bd9335-3d87-11ec-9ac7-505dac8c381b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[슈제 할수있나요 ~><?]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25236411</guid>
             <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[9.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[1년 전 오늘의 (G)I-DLE] (어)김없이 천하일(색)했던 누들이🐰 (Miyeon’s V a year ago)]]></title>
-            <link>https://www.vlive.tv/post/0-25180892</link>
-            <guid>https://www.vlive.tv/post/0-25180892</guid>
-            <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[9.4.]]></content:encoded>
         </item>
     </channel>
 </rss>
