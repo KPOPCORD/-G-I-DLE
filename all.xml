@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 08:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 09:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들 - 민니의 VLOG : 방콕 집콕 🏠 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-26290659</link>
+            <guid>https://www.vlive.tv/post/0-26290659</guid>
+            <pubDate>Fri, 05 Nov 2021 09:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[19분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211103_44/1635905690291eK6By_JPEG/upload_79985352260335018af0761c8-10f1-4b3f-bb10-0772deddeaf1.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐶2 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-26314845</link>
             <guid>https://www.vlive.tv/post/0-26314845</guid>
             <pubDate>Thu, 04 Nov 2021 18:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211105_235/1636044068079BdEFF_JPEG/8fcedd70-3d8b-11ec-ba2c-505dac8c385b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://www.vlive.tv/post/0-26314793</link>
             <guid>https://www.vlive.tv/post/0-26314793</guid>
             <pubDate>Thu, 04 Nov 2021 16:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211105_287/1636041183011GLMcV_JPEG/38bd9335-3d87-11ec-9ac7-505dac8c381b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26315549</guid>
             <pubDate>Thu, 04 Nov 2021 08:22:26 GMT</pubDate>
             <content:encoded><![CDATA[11.4.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211105_110/1636091644265l5mq4_JPEG/72f8f9e3-3d45-11ec-b39d-48df37ae3fca_05.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈제 해야됑 🐾🐾🙂 ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25180892</guid>
             <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[9.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[면💜 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25131467</link>
-            <guid>https://www.vlive.tv/post/1-25131467</guid>
-            <pubDate>Fri, 01 Oct 2021 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[9.1.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
