@@ -4,7 +4,7 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 13:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 14:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/post/1-26496976</guid>
             <pubDate>Wed, 17 Nov 2021 12:30:12 GMT</pubDate>
             <content:encoded><![CDATA[1시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211117_222/1637152836129WssMg_JPEG/7a78f720-47a0-11ec-a74c-48df379ccacc_04.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211117_43/1637155708259zNyYz_JPEG/7a78f720-47a0-11ec-a74c-48df379ccacc_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좋은 밤에]]></title>
+            <link>https://www.vlive.tv/post/0-26488532</link>
+            <guid>https://www.vlive.tv/post/0-26488532</guid>
+            <pubDate>Wed, 17 Nov 2021 14:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211117_136/1637152661512kDON0_JPEG/559847c2-47a2-11ec-82c9-505dac8c35ff_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새벽낌💗]]></title>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26407360</guid>
             <pubDate>Wed, 17 Nov 2021 04:25:53 GMT</pubDate>
             <content:encoded><![CDATA[11.11.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211117_230/1637144150704vMfGW_JPEG/94350d39-42f8-11ec-a979-48df37ae3dc4_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젤리🫐🍓🍒🍊🍌🍍🥭4주년♡]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25487524</guid>
             <pubDate>Wed, 17 Nov 2021 04:25:53 GMT</pubDate>
             <content:encoded><![CDATA[9.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[예 약속 ♡]]></title>
-            <link>https://www.vlive.tv/post/1-25467596</link>
-            <guid>https://www.vlive.tv/post/1-25467596</guid>
-            <pubDate>Wed, 17 Nov 2021 04:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[9.17.]]></content:encoded>
         </item>
     </channel>
 </rss>
