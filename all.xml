@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 08:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좋은 밤에 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-26488532</link>
+            <guid>https://www.vlive.tv/post/0-26488532</guid>
+            <pubDate>Wed, 17 Nov 2021 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/269346/thumb?type=f640_362" length="0" type="image//live/269346/thumb"/>
+        </item>
         <item>
             <title><![CDATA[새벽낌💗 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-26443666</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26330497</guid>
             <pubDate>Wed, 17 Nov 2021 04:25:53 GMT</pubDate>
             <content:encoded><![CDATA[11.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211108_71/16363355859222v2ec_JPEG/0b7b8ed7-3e2d-11ec-9a33-505dac8c3721_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들 - 민니의 VLOG : 방콕 집콕 🏠 ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25467596</guid>
             <pubDate>Wed, 17 Nov 2021 04:25:53 GMT</pubDate>
             <content:encoded><![CDATA[9.17.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🐺👋🏻🌻 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-25445152</link>
-            <guid>https://www.vlive.tv/post/0-25445152</guid>
-            <pubDate>Wed, 17 Nov 2021 04:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[9.16.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
