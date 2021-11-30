@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 12:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 13:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울면❄☃️🧤🌨🤍 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-26694316</link>
+            <guid>https://www.vlive.tv/post/1-26694316</guid>
+            <pubDate>Tue, 30 Nov 2021 13:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270577/thumb?type=f640_362" length="0" type="image//live/270577/thumb"/>
+        </item>
         <item>
             <title><![CDATA[면🍔💕 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-26573999</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26496976</guid>
             <pubDate>Wed, 17 Nov 2021 12:30:12 GMT</pubDate>
             <content:encoded><![CDATA[11.17.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211123_109/1637630955593vyrFF_JPEG/7a78f720-47a0-11ec-a74c-48df379ccacc_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[좋은 밤에 ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25832308</guid>
             <pubDate>Wed, 17 Nov 2021 04:25:53 GMT</pubDate>
             <content:encoded><![CDATA[10.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[면💕 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-25705859</link>
-            <guid>https://www.vlive.tv/post/0-25705859</guid>
-            <pubDate>Wed, 17 Nov 2021 04:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[9.30.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
