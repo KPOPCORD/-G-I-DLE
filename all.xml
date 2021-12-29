@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 05:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 06:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://www.vlive.tv/post/0-27130235</link>
             <guid>https://www.vlive.tv/post/0-27130235</guid>
             <pubDate>Wed, 29 Dec 2021 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[13분 전]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273173/thumb?type=f640_362" length="0" type="image//live/273173/thumb"/>
+            <content:encoded><![CDATA[27분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211229_223/1640757402480mIwBv_JPEG/ca6d1b40-686b-11ec-a831-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들 - I-TALK #90 미연 2021년 활동 비하인드 ((G)I-DLE ─ Star Board)]]></title>
