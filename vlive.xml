@@ -4,9 +4,25 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 11:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 12:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏘리]]></title>
+            <link>https://www.vlive.tv/post/1-27418227</link>
+            <guid>https://www.vlive.tv/post/1-27418227</guid>
+            <pubDate>Thu, 13 Jan 2022 12:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_37/1642075372645ovsYT_JPEG/6a7f96d4-7468-11ec-b282-48df37ae3dc4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤헤💕]]></title>
+            <link>https://www.vlive.tv/post/1-27418168</link>
+            <guid>https://www.vlive.tv/post/1-27418168</guid>
+            <pubDate>Thu, 13 Jan 2022 12:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_234/1642074750934QvDtx_JPEG/d05f8632-7466-11ec-b282-48df37ae3dc4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Easy On Me / Adele' (Cover)]]></title>
             <link>https://www.vlive.tv/post/0-27188804</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27130235</guid>
             <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211229_223/1640757402480mIwBv_JPEG/ca6d1b40-686b-11ec-a831-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들 - I-TALK #90 미연 2021년 활동 비하인드]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-27057248</guid>
             <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.24.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211224_34/1640313421924waeeN_JPEG/upload_8439292753826358806eff4f7-94c7-46e5-bd50-c49b0bc8d923.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울면❄☃️🧤🌨🤍]]></title>
@@ -135,20 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26290315</guid>
             <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Happy Halloween]]></title>
-            <link>https://www.vlive.tv/post/0-26250170</link>
-            <guid>https://www.vlive.tv/post/0-26250170</guid>
-            <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[며니💕💌]]></title>
-            <link>https://www.vlive.tv/post/1-26199649</link>
-            <guid>https://www.vlive.tv/post/1-26199649</guid>
-            <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
