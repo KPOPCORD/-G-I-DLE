@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 01:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 02:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅇㄴㅎㅅㅇ ㅅ ㅅ ㅇㄴㄷ ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-27498461</link>
+            <guid>https://www.vlive.tv/post/0-27498461</guid>
+            <pubDate>Wed, 19 Jan 2022 02:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/275003/thumb?type=f640_362" length="0" type="image//live/275003/thumb"/>
+        </item>
         <item>
             <title><![CDATA[쏘리 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-27418227</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27188804</guid>
             <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_201/1640870006473OSMzM_JPEG/upload_571396080379014714f681bc3-1eb9-4268-ae39-9ed28c29fbee.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈슈 ~ ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26299178</guid>
             <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[며니🤗 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-26290315</link>
-            <guid>https://www.vlive.tv/post/1-26290315</guid>
-            <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.2.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
