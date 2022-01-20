@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 12:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 13:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,16 @@
             <link>https://www.vlive.tv/post/0-27520979</link>
             <guid>https://www.vlive.tv/post/0-27520979</guid>
             <pubDate>Thu, 20 Jan 2022 12:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[28분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/275184/thumb?type=f640_362" length="0" type="image//live/275184/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[😙😙😙 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-27524002</link>
+            <guid>https://www.vlive.tv/post/1-27524002</guid>
+            <pubDate>Thu, 20 Jan 2022 13:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_229/1642682653445qzzAT_JPEG/3a3b24e1-79ec-11ec-b27b-48df379cca40_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ㅇㄴㅎㅅㅇ ㅅ ㅅ ㅇㄴㄷ ((G)I-DLE ─ Star Board)]]></title>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27418227</guid>
             <pubDate>Thu, 13 Jan 2022 12:33:06 GMT</pubDate>
             <content:encoded><![CDATA[1.13.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_231/16426720411089e5DG_JPEG/6a7f96d4-7468-11ec-b282-48df37ae3dc4_05.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤헤💕 ((G)I-DLE ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[슈제 할수있나요 ~><? ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-26315549</link>
             <guid>https://www.vlive.tv/post/1-26315549</guid>
-            <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슈제 해야됑 🐾🐾🙂 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-26309219</link>
-            <guid>https://www.vlive.tv/post/0-26309219</guid>
             <pubDate>Wed, 12 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.4.]]></content:encoded>
         </item>
