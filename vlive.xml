@@ -4,9 +4,17 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 04:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🌻🐺]]></title>
+            <link>https://www.vlive.tv/post/0-27642028</link>
+            <guid>https://www.vlive.tv/post/0-27642028</guid>
+            <pubDate>Fri, 28 Jan 2022 05:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[50분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_143/1643343968607ygPQW_JPEG/39b609cd-7ff1-11ec-b282-48df37ae3dc4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[며니 💕]]></title>
             <link>https://www.vlive.tv/post/0-27520979</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27498461</guid>
             <pubDate>Thu, 27 Jan 2022 08:22:39 GMT</pubDate>
             <content:encoded><![CDATA[1.19.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220119_51/1642559734710SVkSL_JPEG/0ca54184-78d0-11ec-b3d2-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏘리]]></title>
@@ -141,13 +148,6 @@
             <link>https://www.vlive.tv/post/0-26314793</link>
             <guid>https://www.vlive.tv/post/0-26314793</guid>
             <pubDate>Thu, 27 Jan 2022 08:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슈제 할수있나요 ~><?]]></title>
-            <link>https://www.vlive.tv/post/1-26315549</link>
-            <guid>https://www.vlive.tv/post/1-26315549</guid>
-            <pubDate>Fri, 28 Jan 2022 04:23:58 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.4.]]></content:encoded>
         </item>
     </channel>
