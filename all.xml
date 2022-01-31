@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 13:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 14:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[면생일 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-27696123</link>
+            <guid>https://www.vlive.tv/post/0-27696123</guid>
+            <pubDate>Mon, 31 Jan 2022 14:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276120/thumb?type=f640_362" length="0" type="image//live/276120/thumb"/>
+        </item>
         <item>
             <title><![CDATA[🌻🐺 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-27642028</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27524002</guid>
             <pubDate>Thu, 27 Jan 2022 08:22:39 GMT</pubDate>
             <content:encoded><![CDATA[1.20.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_89/1642757006454YJYvi_JPEG/3a3b24e1-79ec-11ec-b27b-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ㅇㄴㅎㅅㅇ ㅅ ㅅ ㅇㄴㄷ ((G)I-DLE ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[🐶2 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-26314845</link>
             <guid>https://www.vlive.tv/post/0-26314845</guid>
-            <pubDate>Thu, 27 Jan 2022 08:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🐶 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-26314793</link>
-            <guid>https://www.vlive.tv/post/0-26314793</guid>
             <pubDate>Thu, 27 Jan 2022 08:22:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.4.]]></content:encoded>
         </item>
