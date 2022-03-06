@@ -4,9 +4,17 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 14:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 15:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 1st Full Album "I NEVER DIE" Audio Snippet]]></title>
+            <link>https://www.vlive.tv/post/0-28222435</link>
+            <guid>https://www.vlive.tv/post/0-28222435</guid>
+            <pubDate>Sun, 06 Mar 2022 15:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[19분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220306_21/1646576688845O3DDa_JPEG/upload_9065637889331274005f97ce6-efb4-4e7a-9cc7-aae917fd7a1f.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) COMEBACK TRAILER : [I NEVER DIE]]]></title>
             <link>https://www.vlive.tv/post/1-28081943</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27933630</guid>
             <pubDate>Mon, 28 Feb 2022 16:29:31 GMT</pubDate>
             <content:encoded><![CDATA[2.15.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220215_177/16449123494079SWiQ_JPEG/7e50116f-8e35-11ec-8cf9-a0369ff94ec8_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Happy Valentine’s day❤️]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-26566425</guid>
             <pubDate>Mon, 28 Feb 2022 16:29:31 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.22.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다시면💕]]></title>
-            <link>https://www.vlive.tv/post/1-26496976</link>
-            <guid>https://www.vlive.tv/post/1-26496976</guid>
-            <pubDate>Mon, 28 Feb 2022 16:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17.]]></content:encoded>
         </item>
     </channel>
 </rss>
