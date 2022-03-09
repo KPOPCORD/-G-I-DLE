@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 10:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 11:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈화 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28275179</link>
+            <guid>https://www.vlive.tv/post/0-28275179</guid>
+            <pubDate>Wed, 09 Mar 2022 11:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[11분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220309_276/1646823937647ac7h3_JPEG/6baa49ce-9f98-11ec-92eb-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - 'MY BAG' Track Video ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-28238037</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28081943</guid>
             <pubDate>Mon, 07 Mar 2022 12:32:06 GMT</pubDate>
             <content:encoded><![CDATA[2.24.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_228/1645712004018lkNGf_JPEG/upload_897917143160943440a67c642-561a-4071-8241-ed3bc1d7e3f8.JPG?type=f359x202" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - 미연&우기의 VLOG : IN JEJU ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26694316</guid>
             <pubDate>Mon, 07 Mar 2022 12:32:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[면🍔💕 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-26573999</link>
-            <guid>https://www.vlive.tv/post/1-26573999</guid>
-            <pubDate>Mon, 07 Mar 2022 12:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.22.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
