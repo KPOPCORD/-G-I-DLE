@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 11:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 12:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈욱 5분]]></title>
+            <link>https://www.vlive.tv/post/1-28283216</link>
+            <guid>https://www.vlive.tv/post/1-28283216</guid>
+            <pubDate>Wed, 09 Mar 2022 12:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[19분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220309_19/1646827984640byf9N_JPEG/ed9bbbb0-9fa1-11ec-8cf9-a0369ff94ec8_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈화]]></title>
             <link>https://www.vlive.tv/post/0-28275179</link>
             <guid>https://www.vlive.tv/post/0-28275179</guid>
             <pubDate>Wed, 09 Mar 2022 11:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[11분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220309_276/1646823937647ac7h3_JPEG/6baa49ce-9f98-11ec-92eb-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28222435</guid>
             <pubDate>Mon, 07 Mar 2022 12:32:06 GMT</pubDate>
             <content:encoded><![CDATA[3.6.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220306_21/1646576688845O3DDa_JPEG/upload_9065637889331274005f97ce6-efb4-4e7a-9cc7-aae917fd7a1f.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) COMEBACK TRAILER : [I NEVER DIE]]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-27057248</guid>
             <pubDate>Mon, 07 Mar 2022 12:32:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.24.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울면❄☃️🧤🌨🤍]]></title>
-            <link>https://www.vlive.tv/post/1-26694316</link>
-            <guid>https://www.vlive.tv/post/1-26694316</guid>
-            <pubDate>Mon, 07 Mar 2022 12:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30.]]></content:encoded>
         </item>
     </channel>
 </rss>
