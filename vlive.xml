@@ -4,9 +4,17 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 14:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 15:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 1]]></title>
+            <link>https://www.vlive.tv/post/0-28287923</link>
+            <guid>https://www.vlive.tv/post/0-28287923</guid>
+            <pubDate>Thu, 10 Mar 2022 15:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_151/1646904232565O3SNq_JPEG/upload_6317383396769717244e380b7-18c4-4c94-9ebb-2855502252e9.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈욱 5분]]></title>
             <link>https://www.vlive.tv/post/1-28283216</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28238037</guid>
             <pubDate>Mon, 07 Mar 2022 15:20:20 GMT</pubDate>
             <content:encoded><![CDATA[3.7.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220307_7/1646665197566ozNMx_JPEG/upload_90744930546594084935d9890-978a-43b7-89cf-8ec8c648a510.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - 1st Full Album "I NEVER DIE" Audio Snippet]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-27130235</guid>
             <pubDate>Mon, 07 Mar 2022 12:32:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들 - I-TALK #90 미연 2021년 활동 비하인드]]></title>
-            <link>https://www.vlive.tv/post/0-27057248</link>
-            <guid>https://www.vlive.tv/post/0-27057248</guid>
-            <pubDate>Mon, 07 Mar 2022 12:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24.]]></content:encoded>
         </item>
     </channel>
 </rss>
