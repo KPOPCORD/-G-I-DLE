@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 08:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28343888</link>
+            <guid>https://www.vlive.tv/post/0-28343888</guid>
+            <pubDate>Mon, 14 Mar 2022 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[19분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220314_70/1647227455698737PL_JPEG/upload_91307161032749066c5f88008-0201-45af-bdef-7616cd16c943.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 2 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-28310191</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28283216</guid>
             <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
             <content:encoded><![CDATA[3.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220309_19/1646827984640byf9N_JPEG/ed9bbbb0-9fa1-11ec-8cf9-a0369ff94ec8_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈화 ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-27418168</guid>
             <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
             <content:encoded><![CDATA[1.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Easy On Me / Adele' (Cover) ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-27188804</link>
-            <guid>https://www.vlive.tv/post/0-27188804</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
