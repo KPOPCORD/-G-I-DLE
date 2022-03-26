@@ -4,9 +4,25 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 07:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 08:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네버버❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️]]></title>
+            <link>https://www.vlive.tv/post/1-28521762</link>
+            <guid>https://www.vlive.tv/post/1-28521762</guid>
+            <pubDate>Sat, 26 Mar 2022 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220326_153/1648282466926hJPoE_JPEG/7c440db3-acdc-11ec-9b7b-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네버버🥰🥰🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️]]></title>
+            <link>https://www.vlive.tv/post/0-28515749</link>
+            <guid>https://www.vlive.tv/post/0-28515749</guid>
+            <pubDate>Sat, 26 Mar 2022 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220326_236/1648281592104WCLiJ_JPEG/ab55887e-acda-11ec-b1ad-d4f5ef590144_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video)]]></title>
             <link>https://www.vlive.tv/post/1-28493691</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28418140</guid>
             <pubDate>Sun, 20 Mar 2022 11:17:34 GMT</pubDate>
             <content:encoded><![CDATA[3.20.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_21/1647668343115IcX4R_JPEG/upload_917480304658115022e20c841-38ca-423e-908e-b9f5e1d0f574.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🥰]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-28418766</guid>
             <pubDate>Sat, 19 Mar 2022 12:31:17 GMT</pubDate>
             <content:encoded><![CDATA[3.19.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_42/1647692995754Fz1ay_JPEG/f41e3ca4-a77f-11ec-88d2-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #91: '"I NEVER DIE" 재킷 촬영 현장 비하인드]]></title>
@@ -135,20 +149,6 @@
             <guid>https://www.vlive.tv/post/0-28222435</guid>
             <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
             <content:encoded><![CDATA[3.6.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) COMEBACK TRAILER : [I NEVER DIE]]]></title>
-            <link>https://www.vlive.tv/post/1-28081943</link>
-            <guid>https://www.vlive.tv/post/1-28081943</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[2.24.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 미연&우기의 VLOG : IN JEJU]]></title>
-            <link>https://www.vlive.tv/post/1-27964568</link>
-            <guid>https://www.vlive.tv/post/1-27964568</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[2.19.]]></content:encoded>
         </item>
     </channel>
 </rss>
