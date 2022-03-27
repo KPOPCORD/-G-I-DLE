@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 03:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 04:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.vlive.tv/post/1-28513407</link>
             <guid>https://www.vlive.tv/post/1-28513407</guid>
             <pubDate>Sun, 27 Mar 2022 03:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[24분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220325_40/1648217425346mQNzO_JPEG/upload_92297093114432122a0a67411-4058-4353-99b5-43c53179b622.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://www.vlive.tv/post/1-28521762</link>
             <guid>https://www.vlive.tv/post/1-28521762</guid>
             <pubDate>Sat, 26 Mar 2022 08:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220326_153/1648282466926hJPoE_JPEG/7c440db3-acdc-11ec-9b7b-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://www.vlive.tv/post/0-28515749</link>
             <guid>https://www.vlive.tv/post/0-28515749</guid>
             <pubDate>Sat, 26 Mar 2022 08:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220326_236/1648281592104WCLiJ_JPEG/ab55887e-acda-11ec-b1ad-d4f5ef590144_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
