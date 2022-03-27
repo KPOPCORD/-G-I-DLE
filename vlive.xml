@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 14:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 15:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🦁]]></title>
+            <link>https://www.vlive.tv/post/0-28537333</link>
+            <guid>https://www.vlive.tv/post/0-28537333</guid>
+            <pubDate>Sun, 27 Mar 2022 15:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220327_261/1648392540045xQtg3_JPEG/b1a58dc3-addc-11ec-88d2-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2]]></title>
             <link>https://www.vlive.tv/post/1-28513407</link>
             <guid>https://www.vlive.tv/post/1-28513407</guid>
             <pubDate>Sun, 27 Mar 2022 03:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220325_40/1648217425346mQNzO_JPEG/upload_92297093114432122a0a67411-4058-4353-99b5-43c53179b622.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28515749</guid>
             <pubDate>Sat, 26 Mar 2022 08:22:48 GMT</pubDate>
             <content:encoded><![CDATA[3.26.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220326_236/1648281592104WCLiJ_JPEG/ab55887e-acda-11ec-b1ad-d4f5ef590144_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-28275179</guid>
             <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
             <content:encoded><![CDATA[3.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 'MY BAG' Track Video]]></title>
-            <link>https://www.vlive.tv/post/0-28238037</link>
-            <guid>https://www.vlive.tv/post/0-28238037</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3.7.]]></content:encoded>
         </item>
     </channel>
 </rss>
