@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28549296</link>
+            <guid>https://www.vlive.tv/post/1-28549296</guid>
+            <pubDate>Mon, 28 Mar 2022 09:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220328_131/1648436771660thJKO_JPEG/upload_92516007306873780cdfa7fda-b8e9-466f-a473-eec2d6857ed6.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🦁 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-28537333</link>
             <guid>https://www.vlive.tv/post/0-28537333</guid>
             <pubDate>Sun, 27 Mar 2022 15:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220327_261/1648392540045xQtg3_JPEG/b1a58dc3-addc-11ec-88d2-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28521762</guid>
             <pubDate>Sat, 26 Mar 2022 08:22:48 GMT</pubDate>
             <content:encoded><![CDATA[3.26.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220326_153/1648282466926hJPoE_JPEG/7c440db3-acdc-11ec-9b7b-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네버버🥰🥰🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ((G)I-DLE ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[슈욱 5분 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-28283216</link>
             <guid>https://www.vlive.tv/post/1-28283216</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슈화 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-28275179</link>
-            <guid>https://www.vlive.tv/post/0-28275179</guid>
             <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
             <content:encoded><![CDATA[3.9.]]></content:encoded>
         </item>
