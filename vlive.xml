@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 12:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 13:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드]]></title>
+            <link>https://www.vlive.tv/post/1-28604473</link>
+            <guid>https://www.vlive.tv/post/1-28604473</guid>
+            <pubDate>Fri, 01 Apr 2022 13:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220401_10/1648792202048sS43x_JPEG/upload_650617577581249124237083b-be81-4d5f-a8f2-69197087b306.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[면💕]]></title>
             <link>https://www.vlive.tv/post/0-28592381</link>
             <guid>https://www.vlive.tv/post/0-28592381</guid>
             <pubDate>Thu, 31 Mar 2022 17:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220401_12/1648748742472JDdjv_JPEG/64292792-b119-11ec-b3bf-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28537333</guid>
             <pubDate>Sun, 27 Mar 2022 15:20:06 GMT</pubDate>
             <content:encoded><![CDATA[3.27.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220327_261/1648392540045xQtg3_JPEG/b1a58dc3-addc-11ec-88d2-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-28310191</guid>
             <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
             <content:encoded><![CDATA[3.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 1]]></title>
-            <link>https://www.vlive.tv/post/0-28287923</link>
-            <guid>https://www.vlive.tv/post/0-28287923</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3.10.]]></content:encoded>
         </item>
     </channel>
 </rss>
