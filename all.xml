@@ -1,7 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://KPOPCORD.github.io/-G-I-DLE/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-04-04T04:26:00.470Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 04 Apr 2022 05:19:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28604473</link>
+            <guid>https://www.vlive.tv/post/1-28604473</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[4.1.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220401_10/1648792202048sS43x_JPEG/upload_650617577581249124237083b-be81-4d5f-a8f2-69197087b306.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[면💕 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28592381</link>
+            <guid>https://www.vlive.tv/post/0-28592381</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.31.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220401_12/1648748742472JDdjv_JPEG/64292792-b119-11ec-b3bf-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28549296</link>
+            <guid>https://www.vlive.tv/post/1-28549296</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.28.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220328_131/1648436771660thJKO_JPEG/upload_92516007306873780cdfa7fda-b8e9-466f-a473-eec2d6857ed6.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🦁 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28537333</link>
+            <guid>https://www.vlive.tv/post/0-28537333</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28513407</link>
+            <guid>https://www.vlive.tv/post/1-28513407</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네버버❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28521762</link>
+            <guid>https://www.vlive.tv/post/1-28521762</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네버버🥰🥰🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28515749</link>
+            <guid>https://www.vlive.tv/post/0-28515749</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video) ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28493691</link>
+            <guid>https://www.vlive.tv/post/1-28493691</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #92 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 1 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28418140</link>
+            <guid>https://www.vlive.tv/post/1-28418140</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.20.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🥰 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28418766</link>
+            <guid>https://www.vlive.tv/post/0-28418766</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.19.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #91: '"I NEVER DIE" 재킷 촬영 현장 비하인드 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28358728</link>
+            <guid>https://www.vlive.tv/post/0-28358728</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28378090</link>
+            <guid>https://www.vlive.tv/post/1-28378090</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver. ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28378043</link>
+            <guid>https://www.vlive.tv/post/1-28378043</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver. ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28378021</link>
+            <guid>https://www.vlive.tv/post/1-28378021</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver. ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28378000</link>
+            <guid>https://www.vlive.tv/post/1-28378000</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver. ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28371979</link>
+            <guid>https://www.vlive.tv/post/0-28371979</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28361681</link>
+            <guid>https://www.vlive.tv/post/0-28361681</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver. ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28352842</link>
+            <guid>https://www.vlive.tv/post/1-28352842</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28343888</link>
+            <guid>https://www.vlive.tv/post/0-28343888</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 2 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28310191</link>
+            <guid>https://www.vlive.tv/post/1-28310191</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-17972224</link>
+            <guid>https://www.vlive.tv/post/0-17972224</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[Sep 18, 2020]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210711_182/1625950842261ghbAM_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[‪[공지] (여자)아이들 공식 팬클럽 NEVERLAND 2기 추가 모집 안내‬  ‪✔ 모집기간 2020. 9... ((G)I-DLE ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-17430074</link>
+            <guid>https://www.vlive.tv/post/1-17430074</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[Sep 7, 2020]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210711_25/1625959091952Rz7tM_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[[공지] (여자)아이들 공식 팬클럽 NEVERLAND 2기 모집 안내  ✔ 모집기간 2020. 8. 10. ... ((G)I-DLE ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-16462099</link>
+            <guid>https://www.vlive.tv/post/1-16462099</guid>
+            <pubDate>Mon, 04 Apr 2022 05:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[Aug 12, 2020]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210711_277/1625975166565kgYY5_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+    </channel>
+</rss>
