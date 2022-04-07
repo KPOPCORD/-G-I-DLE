@@ -4,9 +4,17 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 02:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - '말리지 마' LIVE CLIP]]></title>
+            <link>https://www.vlive.tv/post/0-28679632</link>
+            <guid>https://www.vlive.tv/post/0-28679632</guid>
+            <pubDate>Thu, 07 Apr 2022 03:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_185/1649297685360kowOr_JPEG/upload_65567275797974705f50a0855-b91b-46be-939e-ed11ed225dd9.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드]]></title>
             <link>https://www.vlive.tv/post/1-28604473</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28549296</guid>
             <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[3.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220328_131/1648436771660thJKO_JPEG/upload_92516007306873780cdfa7fda-b8e9-466f-a473-eec2d6857ed6.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🦁]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-28343888</guid>
             <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[3.14.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 2]]></title>
-            <link>https://www.vlive.tv/post/1-28310191</link>
-            <guid>https://www.vlive.tv/post/1-28310191</guid>
-            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[3.11.]]></content:encoded>
         </item>
     </channel>
 </rss>
