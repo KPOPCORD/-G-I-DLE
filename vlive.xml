@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 02:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 03:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드]]></title>
+            <link>https://www.vlive.tv/post/1-28700364</link>
+            <guid>https://www.vlive.tv/post/1-28700364</guid>
+            <pubDate>Sat, 09 Apr 2022 03:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220408_47/1649406302506FskaC_JPEG/upload_93485936145102815809864c8-d6b0-4363-8bf3-3e6eab8e20ac.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[😇]]></title>
             <link>https://www.vlive.tv/post/1-28700371</link>
             <guid>https://www.vlive.tv/post/1-28700371</guid>
             <pubDate>Fri, 08 Apr 2022 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220408_55/1649409731538oEsbI_JPEG/961a8381-b71c-11ec-b52c-505dac8c37f3_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28604473</guid>
             <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[4.1.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220401_10/1648792202048sS43x_JPEG/upload_650617577581249124237083b-be81-4d5f-a8f2-69197087b306.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[면💕]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-28361681</guid>
             <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[3.16.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver.]]></title>
-            <link>https://www.vlive.tv/post/1-28352842</link>
-            <guid>https://www.vlive.tv/post/1-28352842</guid>
-            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[3.14.]]></content:encoded>
         </item>
     </channel>
 </rss>
