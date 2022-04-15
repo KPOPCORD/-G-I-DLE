@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 11:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 12:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕 🐾🐾 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28792062</link>
+            <guid>https://www.vlive.tv/post/1-28792062</guid>
+            <pubDate>Fri, 15 Apr 2022 12:34:03 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_260/1650024498344p0UJF_JPEG/f6412e34-bcb2-11ec-a9d0-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[며닝❤️ ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-28778522</link>
             <guid>https://www.vlive.tv/post/1-28778522</guid>
             <pubDate>Thu, 14 Apr 2022 11:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4.14.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_289/1649936116532MEstD_JPEG/4dac1c94-bbe6-11ec-8726-d4f5ef58ac88_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28756563</guid>
             <pubDate>Tue, 12 Apr 2022 15:22:47 GMT</pubDate>
             <content:encoded><![CDATA[4.12.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220412_284/1649774290197S4UCR_JPEG/upload_938540108772428552dd92847-0080-48a6-8eab-1b6ed2d1906f.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10분만? ((G)I-DLE ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #91: '"I NEVER DIE" 재킷 촬영 현장 비하인드 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-28358728</link>
             <guid>https://www.vlive.tv/post/0-28358728</guid>
-            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[3.16.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver. ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-28378090</link>
-            <guid>https://www.vlive.tv/post/1-28378090</guid>
             <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[3.16.]]></content:encoded>
         </item>
