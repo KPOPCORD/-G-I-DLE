@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 08:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미연 (MIYEON) - "MY" Mood Film Behind the scenes]]></title>
+            <link>https://www.vlive.tv/post/1-28788774</link>
+            <guid>https://www.vlive.tv/post/1-28788774</guid>
+            <pubDate>Sat, 16 Apr 2022 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_65/1650005391133Fxqo5_JPEG/upload_66274799806291300285724ca-50e2-4b79-9c1a-d8cabd7ae770.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕 🐾🐾]]></title>
             <link>https://www.vlive.tv/post/1-28792062</link>
             <guid>https://www.vlive.tv/post/1-28792062</guid>
             <pubDate>Fri, 15 Apr 2022 12:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220415_260/1650024498344p0UJF_JPEG/f6412e34-bcb2-11ec-a9d0-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28767351</guid>
             <pubDate>Thu, 14 Apr 2022 06:26:20 GMT</pubDate>
             <content:encoded><![CDATA[4.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_192/1649901941006s3KPd_JPEG/upload_6617130501857362257c9c993-3f0e-4edd-842b-fcb2cd7cf637.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미연 (MIYEON) - 1st Mini Album "MY" Mood Film]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-28418766</guid>
             <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[3.19.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #91: '"I NEVER DIE" 재킷 촬영 현장 비하인드]]></title>
-            <link>https://www.vlive.tv/post/0-28358728</link>
-            <guid>https://www.vlive.tv/post/0-28358728</guid>
-            <pubDate>Mon, 04 Apr 2022 05:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[3.16.]]></content:encoded>
         </item>
     </channel>
 </rss>
