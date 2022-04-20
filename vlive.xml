@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/CE2621/board/5013?lang=ko</id>
-    <title>(G)I-DLE ─ Star Board</title>
-    <updated>2022-04-20T17:30:01.120Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>(G)I-DLE ─ Star Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 20 Apr 2022 18:25:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미연 (MIYEON) - "MY" Mood Film Behind the scenes]]></title>
+            <link>https://www.vlive.tv/post/1-28788774</link>
+            <guid>https://www.vlive.tv/post/1-28788774</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.16.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_65/1650005391133Fxqo5_JPEG/upload_66274799806291300285724ca-50e2-4b79-9c1a-d8cabd7ae770.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕 🐾🐾]]></title>
+            <link>https://www.vlive.tv/post/1-28792062</link>
+            <guid>https://www.vlive.tv/post/1-28792062</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.15.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_260/1650024498344p0UJF_JPEG/f6412e34-bcb2-11ec-a9d0-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[며닝❤️]]></title>
+            <link>https://www.vlive.tv/post/1-28778522</link>
+            <guid>https://www.vlive.tv/post/1-28778522</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.14.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220414_289/1649936116532MEstD_JPEG/4dac1c94-bbe6-11ec-8726-d4f5ef58ac88_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #96: 'TOMBOY' 마지막 주 비하인드]]></title>
+            <link>https://www.vlive.tv/post/0-28767351</link>
+            <guid>https://www.vlive.tv/post/0-28767351</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미연 (MIYEON) - 1st Mini Album "MY" Mood Film]]></title>
+            <link>https://www.vlive.tv/post/1-28756563</link>
+            <guid>https://www.vlive.tv/post/1-28756563</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10분만?]]></title>
+            <link>https://www.vlive.tv/post/0-28733831</link>
+            <guid>https://www.vlive.tv/post/0-28733831</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[😏]]></title>
+            <link>https://www.vlive.tv/post/0-28705148</link>
+            <guid>https://www.vlive.tv/post/0-28705148</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드]]></title>
+            <link>https://www.vlive.tv/post/1-28700364</link>
+            <guid>https://www.vlive.tv/post/1-28700364</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[😇]]></title>
+            <link>https://www.vlive.tv/post/1-28700371</link>
+            <guid>https://www.vlive.tv/post/1-28700371</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.8.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - '말리지 마' LIVE CLIP]]></title>
+            <link>https://www.vlive.tv/post/0-28679632</link>
+            <guid>https://www.vlive.tv/post/0-28679632</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.7.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #94: 'TOMBOY' 첫방 비하인드]]></title>
+            <link>https://www.vlive.tv/post/1-28604473</link>
+            <guid>https://www.vlive.tv/post/1-28604473</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[4.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[면💕]]></title>
+            <link>https://www.vlive.tv/post/0-28592381</link>
+            <guid>https://www.vlive.tv/post/0-28592381</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.31.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video)]]></title>
+            <link>https://www.vlive.tv/post/1-28549296</link>
+            <guid>https://www.vlive.tv/post/1-28549296</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.28.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🦁]]></title>
+            <link>https://www.vlive.tv/post/0-28537333</link>
+            <guid>https://www.vlive.tv/post/0-28537333</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2]]></title>
+            <link>https://www.vlive.tv/post/1-28513407</link>
+            <guid>https://www.vlive.tv/post/1-28513407</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네버버❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️]]></title>
+            <link>https://www.vlive.tv/post/1-28521762</link>
+            <guid>https://www.vlive.tv/post/1-28521762</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네버버🥰🥰🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️]]></title>
+            <link>https://www.vlive.tv/post/0-28515749</link>
+            <guid>https://www.vlive.tv/post/0-28515749</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video)]]></title>
+            <link>https://www.vlive.tv/post/1-28493691</link>
+            <guid>https://www.vlive.tv/post/1-28493691</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #92 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 1]]></title>
+            <link>https://www.vlive.tv/post/1-28418140</link>
+            <guid>https://www.vlive.tv/post/1-28418140</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.20.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🥰]]></title>
+            <link>https://www.vlive.tv/post/0-28418766</link>
+            <guid>https://www.vlive.tv/post/0-28418766</guid>
+            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[3.19.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
