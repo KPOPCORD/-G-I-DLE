@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 14:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 15:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미연 (MIYEON) - 1st Mini Album "MY" Audio Snippet ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28887812</link>
+            <guid>https://www.vlive.tv/post/1-28887812</guid>
+            <pubDate>Fri, 22 Apr 2022 15:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_139/1650637556880aBmJt_JPEG/upload_669071552104550924e90e608-4721-467b-9e50-25e576ff74ff.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미연 (MIYEON) - "MY" Mood Film Behind the scenes ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-28788774</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28778522</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[4.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_289/1649936116532MEstD_JPEG/4dac1c94-bbe6-11ec-8726-d4f5ef58ac88_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #96: 'TOMBOY' 마지막 주 비하인드 ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-28418140</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[3.20.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🥰 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-28418766</link>
-            <guid>https://www.vlive.tv/post/0-28418766</guid>
-            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[3.19.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
