@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 12:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 13:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈슈슈~]]></title>
+            <link>https://www.vlive.tv/post/0-28920617</link>
+            <guid>https://www.vlive.tv/post/0-28920617</guid>
+            <pubDate>Mon, 25 Apr 2022 13:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282159/thumb?type=f640_362" length="0" type="image//live/282159/thumb"/>
+        </item>
         <item>
             <title><![CDATA[미연 (MIYEON) - 'Drive' M/V Teaser 1]]></title>
             <link>https://www.vlive.tv/post/0-28909127</link>
             <guid>https://www.vlive.tv/post/0-28909127</guid>
             <pubDate>Sun, 24 Apr 2022 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220424_183/1650810706730oHneb_JPEG/upload_948904061544114077e186236-ba25-442e-b955-bdfde69ac7a6.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28887812</guid>
             <pubDate>Fri, 22 Apr 2022 15:21:50 GMT</pubDate>
             <content:encoded><![CDATA[4.22.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_139/1650637556880aBmJt_JPEG/upload_669071552104550924e90e608-4721-467b-9e50-25e576ff74ff.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미연 (MIYEON) - "MY" Mood Film Behind the scenes]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[네버버❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️]]></title>
             <link>https://www.vlive.tv/post/1-28521762</link>
             <guid>https://www.vlive.tv/post/1-28521762</guid>
-            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[3.26.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네버버🥰🥰🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️]]></title>
-            <link>https://www.vlive.tv/post/0-28515749</link>
-            <guid>https://www.vlive.tv/post/0-28515749</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[3.26.]]></content:encoded>
         </item>
