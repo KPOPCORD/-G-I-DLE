@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 13:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 14:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[😝]]></title>
+            <link>https://www.vlive.tv/post/1-28940538</link>
+            <guid>https://www.vlive.tv/post/1-28940538</guid>
+            <pubDate>Tue, 26 Apr 2022 14:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282239/thumb?type=f640_362" length="0" type="image//live/282239/thumb"/>
+        </item>
         <item>
             <title><![CDATA[미연 (MIYEON) - 'Drive' M/V Teaser 2]]></title>
             <link>https://www.vlive.tv/post/1-28928425</link>
             <guid>https://www.vlive.tv/post/1-28928425</guid>
             <pubDate>Mon, 25 Apr 2022 15:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220425_64/16508986997167lo8k_JPEG/upload_94978429367207789f1556dbc-c068-4ecf-b1e4-6d764f0c2244.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28909127</guid>
             <pubDate>Sun, 24 Apr 2022 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[4.24.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220424_183/1650810706730oHneb_JPEG/upload_948904061544114077e186236-ba25-442e-b955-bdfde69ac7a6.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[면💕]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[🦁]]></title>
             <link>https://www.vlive.tv/post/0-28537333</link>
             <guid>https://www.vlive.tv/post/0-28537333</guid>
-            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[3.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #93 : 'TOMBOY' 뮤비 촬영 현장 비하인드 Part 2]]></title>
-            <link>https://www.vlive.tv/post/1-28513407</link>
-            <guid>https://www.vlive.tv/post/1-28513407</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[3.27.]]></content:encoded>
         </item>
