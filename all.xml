@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 10:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미연 (MIYEON) - 'Drive' 응원법 ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-28924849</link>
+            <guid>https://www.vlive.tv/post/1-28924849</guid>
+            <pubDate>Wed, 27 Apr 2022 10:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[24분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220425_120/1650882966500P5Dxy_JPEG/upload_9496266651841040335dc3eb4-12c8-4608-af48-4cd2308199e0.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미연 (MIYEON) - 'Drive' Official Music Video ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-28948085</link>
             <guid>https://www.vlive.tv/post/1-28948085</guid>
             <pubDate>Wed, 27 Apr 2022 09:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220427_89/1651046893010J7sqH_JPEG/upload_67316484148713295d0e0fa14-2d4b-4bd5-849e-a1fec53b7c9e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://www.vlive.tv/post/1-28940538</link>
             <guid>https://www.vlive.tv/post/1-28940538</guid>
             <pubDate>Tue, 26 Apr 2022 14:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220427_260/1650985216575A4qbi_JPEG/c8a9e8c4-c570-11ec-861a-505dac8c385b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28928425</guid>
             <pubDate>Mon, 25 Apr 2022 15:23:38 GMT</pubDate>
             <content:encoded><![CDATA[4.25.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220425_64/16508986997167lo8k_JPEG/upload_94978429367207789f1556dbc-c068-4ecf-b1e4-6d764f0c2244.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈슈슈~ ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-28592381</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[3.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video) ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-28549296</link>
-            <guid>https://www.vlive.tv/post/1-28549296</guid>
-            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[3.28.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
