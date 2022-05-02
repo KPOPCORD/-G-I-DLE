@@ -4,9 +4,17 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yo what’s up]]></title>
+            <link>https://www.vlive.tv/post/1-29008949</link>
+            <guid>https://www.vlive.tv/post/1-29008949</guid>
+            <pubDate>Mon, 02 May 2022 08:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[지금]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220502_99/1651480017273UBxUu_JPEG/4b04a6c7-c9f1-11ec-a12d-505dac8c381b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #97: 미연 "MY" 재킷 촬영 현장 비하인드]]></title>
             <link>https://www.vlive.tv/post/1-28938919</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28924849</guid>
             <pubDate>Wed, 27 Apr 2022 10:24:08 GMT</pubDate>
             <content:encoded><![CDATA[4.27.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220425_120/1650882966500P5Dxy_JPEG/upload_9496266651841040335dc3eb4-12c8-4608-af48-4cd2308199e0.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미연 (MIYEON) - 'Drive' Official Music Video]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-28700371</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[4.8.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - '말리지 마' LIVE CLIP]]></title>
-            <link>https://www.vlive.tv/post/0-28679632</link>
-            <guid>https://www.vlive.tv/post/0-28679632</guid>
-            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[4.7.]]></content:encoded>
         </item>
     </channel>
 </rss>
