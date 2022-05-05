@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 12:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 13:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-LOG Teaser ((G)I-DLE ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-29042099</link>
+            <guid>https://www.vlive.tv/post/0-29042099</guid>
+            <pubDate>Thu, 05 May 2022 13:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220505_231/1651751417089mq4WX_JPEG/upload_9583110528875640687e12a41-1fcc-4939-ae1e-83be75c99e23.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #98: 미연 "MY" 뮤비 촬영 현장 비하인드 ((G)I-DLE ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-29019068</link>
             <guid>https://www.vlive.tv/post/0-29019068</guid>
             <pubDate>Wed, 04 May 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5.4.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220503_236/1651584804656f6jve_JPEG/upload_67854374675792331fb92fd26-844d-43d4-bb48-221f2f1f494e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28939746</guid>
             <pubDate>Wed, 27 Apr 2022 11:17:53 GMT</pubDate>
             <content:encoded><![CDATA[4.27.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220427_204/16510287448704SweJ_JPEG/upload_6729829114343310015750646-0255-476d-8807-1a2492f11d9d.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미연 (MIYEON) - 'Drive' 응원법 ((G)I-DLE ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-28700364</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[4.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[😇 ((G)I-DLE ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-28700371</link>
-            <guid>https://www.vlive.tv/post/1-28700371</guid>
-            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[4.8.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] (여자)아이들 OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEET... ((G)I-DLE ─ Notice)]]></title>
