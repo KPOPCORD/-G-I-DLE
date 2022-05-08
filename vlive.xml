@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 13:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 14:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[며니 드라이브 막방💕🚗]]></title>
+            <link>https://www.vlive.tv/post/0-29081964</link>
+            <guid>https://www.vlive.tv/post/0-29081964</guid>
+            <pubDate>Sun, 08 May 2022 14:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_195/1652018926447RGeET_JPEG/ee95ae46-ced7-11ec-9021-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Nothing / Bruno Major' (Cover) (LIVE ver.)]]></title>
             <link>https://www.vlive.tv/post/0-29076937</link>
             <guid>https://www.vlive.tv/post/0-29076937</guid>
             <pubDate>Sun, 08 May 2022 13:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[28분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_55/1651989850126UecOM_JPEG/upload_96069539371435255d09a7bea-225c-4cec-80a1-26afc8b4b47a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-29019068</guid>
             <pubDate>Wed, 04 May 2022 13:40:39 GMT</pubDate>
             <content:encoded><![CDATA[5.4.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220503_236/1651584804656f6jve_JPEG/upload_67854374675792331fb92fd26-844d-43d4-bb48-221f2f1f494e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #97: 미연 "MY" 재킷 촬영 현장 비하인드]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-28733831</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[4.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[😏]]></title>
-            <link>https://www.vlive.tv/post/0-28705148</link>
-            <guid>https://www.vlive.tv/post/0-28705148</guid>
-            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[4.9.]]></content:encoded>
         </item>
     </channel>
 </rss>
