@@ -4,15 +4,23 @@
         <title>(G)I-DLE ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 10:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 11:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈와요]]></title>
+            <link>https://www.vlive.tv/post/1-29109799</link>
+            <guid>https://www.vlive.tv/post/1-29109799</guid>
+            <pubDate>Tue, 10 May 2022 11:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220510_162/1652180583899Yl5rA_JPEG/69b76364-d050-11ec-a2ba-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-LOG #1 민우슈의 나들이 ☀]]></title>
             <link>https://www.vlive.tv/post/0-29091051</link>
             <guid>https://www.vlive.tv/post/0-29091051</guid>
             <pubDate>Mon, 09 May 2022 13:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220509_103/1652088627697iLhx3_JPEG/upload_96168299170899916a2eb8ba6-f37d-49bd-b639-6f2c7a4c9c4b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-29076937</guid>
             <pubDate>Sun, 08 May 2022 13:28:46 GMT</pubDate>
             <content:encoded><![CDATA[5.8.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220508_55/1651989850126UecOM_JPEG/upload_96069539371435255d09a7bea-225c-4cec-80a1-26afc8b4b47a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-LOG Teaser]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-28767351</guid>
             <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
             <content:encoded><![CDATA[4.14.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미연 (MIYEON) - 1st Mini Album "MY" Mood Film]]></title>
-            <link>https://www.vlive.tv/post/1-28756563</link>
-            <guid>https://www.vlive.tv/post/1-28756563</guid>
-            <pubDate>Wed, 20 Apr 2022 18:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[4.12.]]></content:encoded>
         </item>
     </channel>
 </rss>
